@@ -1,4 +1,4 @@
-## Práctica 5.2 - Vehículos y Carrera
+## Práctica 5.3 - Vehículos y Carrera
 
 Partiendo del código que ya habéis realizado en el ejercicio 7 de la práctica 5.1, crea en tu repositorio dos ramas para dar una solución a los siguientes ejercicios:
 
