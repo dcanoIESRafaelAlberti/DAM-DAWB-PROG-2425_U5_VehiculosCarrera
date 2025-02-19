@@ -115,5 +115,5 @@ coméntalas en clase con tus compañeros y profesor antes de continuar.
 
 ***Ejemplo de salida del programa:***
 
-![image](https://github.com/dcsibon/Ejercicios_POO2/assets/70104029/156549a1-a823-462d-a3e8-c18e8c29b706)
+![image](Assets/Preview-Carrera.png)
 
